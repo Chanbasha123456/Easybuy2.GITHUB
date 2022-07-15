@@ -40,6 +40,6 @@ public class Sample_Test {
 		  String text = producttitle.getText();
 		Assert.assertNotEquals(text,"PRODUCTS","Test not matched");
 		
-		  driver.quit();
+		  
 	}
 }
